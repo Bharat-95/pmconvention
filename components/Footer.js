@@ -79,6 +79,7 @@ const Footer = () => {
             <li>+91 9676834711</li>
             <li>+91 8886054515</li>
             <li>+91 7674059286</li>
+            {/* added new number */}
             
           </ul>
         </div>
